@@ -11,7 +11,7 @@ This project performs Exploratory Data Analysis (EDA) on Amazon Prime Movies and
 
 ## 📁 Files Included
 - real eda.ipynb → Main notebook
-- cleaned_titles.csv → Titles dataset
+- titles.csv → Titles dataset
 - credits.csv → Credits dataset
 
 ## 🎯 Objective
